@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         ImageView shaun = (ImageView) findViewById(R.id.shaun);
         ViewCompat.animate(shaun);
-//
+
 //        shaun.animate().scaleX(0.5f).scaleY(0.5f).setDuration(2000);
 
         //shaun.animate().rotation(1800f).setDuration(2000);
