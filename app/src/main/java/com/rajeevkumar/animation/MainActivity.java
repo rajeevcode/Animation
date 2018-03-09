@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 //        ImageView shaun = (ImageView) findViewById(R.id.shaun);
 //
 //        shaun.animate().translationXBy(-1000f);
-//
+//    chech
         ImageView shaun = (ImageView) findViewById(R.id.shaun);
         shaun.setTranslationX(-1000f);
         shaun.setTranslationY(-1000f);
